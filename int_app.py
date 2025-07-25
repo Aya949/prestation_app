@@ -94,7 +94,7 @@ st.markdown("""
         }
         /* All text below, including markdown, captions, tables, etc. */
         .stCaption, .stMarkdown, .stText, .stDataFrame, .stTable, .st-bb, .st-cq, .st-co, .st-cp, .st-cr, .st-cs, .st-ct, .st-cu, .st-cv, .st-cw, .st-cx, .st-cy, .st-cz, p, span, label {
-            color: #FFFFFF !important;
+            color: black !important;
         }
         /* Buttons */
         .stButton>button {
