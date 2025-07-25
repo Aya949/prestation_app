@@ -76,7 +76,7 @@ st.markdown("""
         }
         /* Metric cards */
         .stMetric {
-            background: #FFFFFF !important;
+            background: red !important;
             border-radius: 10px;
             padding: 10px 0;
             margin-bottom: 10px;
