@@ -76,21 +76,21 @@ st.markdown("""
         }
         /* Metric cards */
         .stMetric {
-            background: red !important;
+            background: #FFFFFF !important;
             border-radius: 10px;
             padding: 10px 0;
             margin-bottom: 10px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.03);
             border: 1px solid #CCCCCC;
-            color: #FFFFFF !important;
+            color: black !important;
         }
         /* Metric label */
         .stMetricLabel {
-            color: #FFFFFF !important;
+            color: black !important;
         }
         /* Metric value (the big number) */
         div[data-testid="stMetricValue"] {
-            color: #FFFFFF !important;
+            color: black !important;
         }
         /* All text below, including markdown, captions, tables, etc. */
         .stCaption, .stMarkdown, .stText, .stDataFrame, .stTable, .st-bb, .st-cq, .st-co, .st-cp, .st-cr, .st-cs, .st-ct, .st-cu, .st-cv, .st-cw, .st-cx, .st-cy, .st-cz, p, span, label {
