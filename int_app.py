@@ -20,6 +20,10 @@ st.markdown(
 
 st.markdown("""
     <style>
+        html, body, [class*="css"]  {
+            background-color: #f7f7f7;
+            color: #000000;
+        }
         /* Main background */
         .stApp {
             background-color: #F5F5F5 !important;
