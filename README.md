@@ -14,7 +14,7 @@ A Streamlit web application developed during my internship at La Fondation Moham
 
 - **Online Deployment:** Deployed with Streamlit Cloud for immediate access.
 
-## 📄 Screenshots
+## Screenshots
 
 **Global statistics**
 <img width="1574" height="773" alt="image" src="https://github.com/user-attachments/assets/f3560a4a-0ff3-497e-a992-748f11f37e48" />
@@ -26,7 +26,7 @@ A Streamlit web application developed during my internship at La Fondation Moham
 <img width="1533" height="743" alt="image" src="https://github.com/user-attachments/assets/4cc9966c-fea4-4e9d-a06b-7ce43a3ac83f" />
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.11
 
@@ -38,16 +38,16 @@ A Streamlit web application developed during my internship at La Fondation Moham
 
 - CSS/HTML : For UI customization
 
-## 💾 Deployment
+## Deployment
 
 The app is deployed on Streamlit Cloud:
 
-🌐 Access the live app
+ Access the live app
 
-## 📍 Context
+## Context
 
 This project was completed during my observation internship at Fondation Mohammed VI. The goal was to centralize data consultation on social services and simplify access for internal staff.
 
-## 📢 Feedback & Suggestions
+## Feedback & Suggestions
 
 Feel free to open an issue or submit a pull request if you'd like to contribute or suggest improvements.
